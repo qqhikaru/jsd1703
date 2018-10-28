@@ -5,4 +5,7 @@ public class Fist {
 
 
 	}
+	public void zhangsan(){
+		
+	}
 }
