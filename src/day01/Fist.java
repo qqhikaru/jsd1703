@@ -8,5 +8,10 @@ public class Fist {
 	
 	public void lisi(){
 		
+
+	}
+	public void zhangsan(){
+		
+
 	}
 }
