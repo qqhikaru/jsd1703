@@ -7,7 +7,7 @@ public class Fist {
 	}
 	
 	public void lisi(){
-		
+		System.out.println("lisi方法");
 
 	}
 	public void zhangsan(){
