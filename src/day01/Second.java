@@ -2,7 +2,8 @@ package day01;
 
 public class Second {
 	public static void main(String[] args) {
-		System.out.println("lisi");
-		System.out.println("lisi");
+		System.out.println("lisisi2");
+		System.out.println("lisisi2");
+		System.out.println("lisisi2");
 	}
 }
